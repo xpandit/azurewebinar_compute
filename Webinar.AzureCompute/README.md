@@ -2,7 +2,7 @@
 
 ## How to manage your compute services in Azure
 
-![Azure Compute Services](/screenshots/containers/1-Azure.png)
+![Azure Compute Services](./screenshots/containers/1-Azure.png)
 
 ## Description
 
@@ -22,6 +22,6 @@ Following this guide you will be able to:
 
 ## Guides
 
-##### [1 - WebApi Deploy](/AzureWebinarSeries-WebApi.md)
-##### [2 - WebApi Docker container support](/AzureWebinarSeries-Docker.md)
-##### [3 - Azure Functions Deploy](/AzureWebinarSeries-Functions.md)
+##### [1 - WebApi Deploy](./AzureWebinarSeries-WebApi.md)
+##### [2 - WebApi Docker container support](./AzureWebinarSeries-Docker.md)
+##### [3 - Azure Functions Deploy](./AzureWebinarSeries-Functions.md)
