@@ -2,7 +2,7 @@
 
 ## How to manage your compute services in Azure
 
-![Azure Compute Services](/screenshots/containers/1-Azure.png)
+![Azure Compute Services](/Webinar.AzureCompute/Webinar.AzureCompute/screenshots/containers/1-Azure.png)
 
 ## Description
 
